@@ -58,7 +58,7 @@ Accurate brain tumor classification is essential for precision in medical interv
 
 ## 6. References
 
-1. Kaggle. Brain Tumor Classification in PyTorch. Available online: [Kaggle Brain Tumor Classification](https://www.kaggle.com/code/jarvisgroot/brain-tumor-classification-in-pytorch) (accessed on [access date]).
+1. Kaggle. Brain Tumor Classification in PyTorch. Available online: [Kaggle Brain Tumor Classification](https://www.kaggle.com/code/jarvisgroot/brain-tumor-classification-in-pytorch) ).
 
 2. The Brain Tumour Charity. Brain Tumor Basics. Available online: [The Brain Tumour Charity](https://www.thebraintumourcharity.org/) (accessed on 1 July 2019).
 
